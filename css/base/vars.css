@@ -1,0 +1,30 @@
+:root {
+    --text-color: #1E1E1E;
+    --accent: #E58411;
+    --text-muted: #8D8D8D;
+    --text-card-darkblue: #0D1B39;
+
+    --header-text-color: #fff;
+
+    --footer-text-color: rgba(255, 255, 255, 0.8);
+    --footer-accent: #F6973F;
+    --footer-bg: #2D2F33;
+ 
+    --cart-bg: #f7f7f7;
+
+    --font-family: "Montserrat", sans-serif;
+    --second-family: "Nunito", sans-serif;
+
+    --font-main: 'Gilroy', sans-serif;
+    --font-cards: 'Inter', sans-serif;
+    --font-footer-accent: 'DM Sans', sans-serif;
+
+    --page-bg:  rgb(248, 247, 245);
+	--efbd68: #edb24e;
+	--ffb7a1: #ffb7a1;
+	--ffbfbe: #ffbfbe;
+	--919f88: #919f88;
+	--c8cfd7: #c8cfd7;
+	--95a1af: #95a1af;
+	--333333: #333;
+}
